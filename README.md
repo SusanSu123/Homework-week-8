@@ -2,7 +2,7 @@
 
 * Clone the repository
 
-* Git clone https://github.com/SusanSu123/Homework-week-8.git
+* Git clone https://github.com/SusanSu123/Professional-Materials-01.git
 
 * Go to index.html
 
