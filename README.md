@@ -1,6 +1,7 @@
 ## How to install
 
-Clone the repository
+* Clone the repository
+
 * Git clone https://github.com/SusanSu123/Homework-week-8.git
 
 * Go to index.html
