@@ -1,7 +1,3 @@
-# Homework-week-8 Portfolio
-
-## Unit 08 Project 1 Homework: Professional Materials
-
 ## How to install
 
 Clone the repository
